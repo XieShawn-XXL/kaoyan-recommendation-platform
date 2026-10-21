@@ -2,12 +2,13 @@
   "publishable": true,
   "errors": [],
   "warnings": [
+    "Offering count decreased 0.5%",
     "4 published plan values are nonpositive and will be treated as unavailable"
   ],
   "counts": {
-    "previous": 1758,
-    "next": 1763,
-    "changeRate": 0.002844141069397042
+    "previous": 1763,
+    "next": 1755,
+    "changeRate": -0.0045377197958026095
   },
-  "snapshotHash": "3fa8cd2bf9685fbdf4b2df01d2ac50858d5a2b48afe3df6f935a978badc0413e"
+  "snapshotHash": "69e38d83181b55599a4f44714e7d14f31ea1619fcd56f71a26135d827c171f5c"
 }
