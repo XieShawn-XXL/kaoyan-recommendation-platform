@@ -5,9 +5,9 @@
     "4 published plan values are nonpositive and will be treated as unavailable"
   ],
   "counts": {
-    "previous": 1759,
-    "next": 1761,
-    "changeRate": 0.0011370096645821489
+    "previous": 1761,
+    "next": 1771,
+    "changeRate": 0.0056785917092561046
   },
-  "snapshotHash": "ed8ee1d586bdef6b7b36fdee606328f0106b2e2db3ba8745d23ae9eab7c77ce6"
+  "snapshotHash": "e2628dc89d84336cf6d57c4ec64524f81f693d1f38d2c9031a4b7d08be8df5e7"
 }
