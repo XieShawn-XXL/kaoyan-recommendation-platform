@@ -1,7 +1,7 @@
 {
   "source": "中国研究生招生信息网 2026 年硕士专业目录",
   "sourceUrl": "https://yz.chsi.com.cn/zsml/",
-  "syncedAt": "2026-11-27T09:01:20.841Z",
+  "syncedAt": "2026-11-27T21:36:10.060Z",
   "subjectCode": "408",
   "coverage": "939 个招生单位逐校核验，第四科代码严格等于 408",
   "coveredMajors": [
@@ -8030,6 +8030,44 @@
       "sourceUrl": "https://yz.chsi.com.cn/zsml/"
     },
     {
+      "id": "63d3f72f1a7246f68f5afd4cf679a242",
+      "schoolCode": "11258",
+      "schoolName": "大连大学",
+      "region": "辽宁",
+      "collegeName": "信息工程学院（含国家863实验室）",
+      "majorCode": "081200",
+      "majorName": "计算机科学与技术",
+      "degreeType": "学术学位",
+      "directionName": "计算机网络与安全、人工智能、计算机应用技术",
+      "studyMode": "全日制",
+      "plannedEnrollment": "专业：24(不含推免)",
+      "subjects": [
+        {
+          "code": "101",
+          "name": "思想政治理论"
+        },
+        {
+          "code": "201",
+          "name": "英语（一）"
+        },
+        {
+          "code": "301",
+          "name": "数学（一）"
+        },
+        {
+          "code": "408",
+          "name": "计算机学科专业基础"
+        }
+      ],
+      "examType": "408",
+      "enrollment2026": 24,
+      "enrollment2027": null,
+      "enrollmentChange": null,
+      "retestAdmissionRatio2026": null,
+      "retestAdmissionRatioSourceUrl": null,
+      "sourceUrl": "https://yz.chsi.com.cn/zsml/"
+    },
+    {
       "id": "e8f790b5e59112ac75bf509fdf1789b0",
       "schoolCode": "11258",
       "schoolName": "大连大学",
@@ -15015,44 +15053,6 @@
       ],
       "examType": "408",
       "enrollment2026": 4,
-      "enrollment2027": null,
-      "enrollmentChange": null,
-      "retestAdmissionRatio2026": null,
-      "retestAdmissionRatioSourceUrl": null,
-      "sourceUrl": "https://yz.chsi.com.cn/zsml/"
-    },
-    {
-      "id": "434f03de939c0a9333649503641f3f17",
-      "schoolCode": "10663",
-      "schoolName": "贵州师范大学",
-      "region": "贵州",
-      "collegeName": "大数据与计算机科学学院",
-      "majorCode": "085411",
-      "majorName": "大数据技术与工程",
-      "degreeType": "专业学位",
-      "directionName": "不区分研究方向",
-      "studyMode": "全日制",
-      "plannedEnrollment": "专业：11(不含推免)",
-      "subjects": [
-        {
-          "code": "101",
-          "name": "思想政治理论"
-        },
-        {
-          "code": "204",
-          "name": "英语（二）"
-        },
-        {
-          "code": "302",
-          "name": "数学（二）"
-        },
-        {
-          "code": "408",
-          "name": "计算机学科专业基础"
-        }
-      ],
-      "examType": "408",
-      "enrollment2026": 11,
       "enrollment2027": null,
       "enrollmentChange": null,
       "retestAdmissionRatio2026": null,
